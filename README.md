@@ -1,11 +1,13 @@
-# Download-Youtube-Videos-in-MP3-Format
+Python Automation Scripts
 
-Python Automation script for downloading & saving YouTube videos as .MP3 files. 
+Here are a list of useful Python automation scripts. 
+I took the liberty to fix some of the scripts I've seen floating around Social Media.
+Most of these scripts require modules that you will have to have present on your system in order to use
+
 
 Requirements:
 - Python
 - Pip
-- Pytube
 
 To install pytube:
 - pip install pytube
