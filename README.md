@@ -9,5 +9,3 @@ Requirements:
 - Python
 - Pip
 
-To install pytube:
-- pip install pytube
